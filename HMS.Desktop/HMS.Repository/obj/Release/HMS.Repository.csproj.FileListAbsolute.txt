@@ -1,0 +1,10 @@
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\bin\Release\HMS.Repository.dll.config
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\bin\Release\HMS.Repository.dll
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\bin\Release\HMS.Repository.pdb
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\bin\Release\EntityFramework.dll
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\bin\Release\HMS.DataSource.dll
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\bin\Release\HMS.DataSource.pdb
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\bin\Release\EntityFramework.xml
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\obj\Release\HMS.Repository.csprojResolveAssemblyReference.cache
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\obj\Release\HMS.Repository.dll
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.Repository\obj\Release\HMS.Repository.pdb

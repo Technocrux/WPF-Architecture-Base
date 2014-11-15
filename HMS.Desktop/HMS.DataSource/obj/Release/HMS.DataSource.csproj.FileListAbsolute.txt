@@ -1,0 +1,7 @@
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.DataSource\bin\Release\HMS.DataSource.dll.config
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.DataSource\bin\Release\HMS.DataSource.dll
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.DataSource\bin\Release\HMS.DataSource.pdb
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.DataSource\bin\Release\EntityFramework.dll
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.DataSource\bin\Release\EntityFramework.xml
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.DataSource\obj\Release\HMS.DataSource.dll
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\HMS.DataSource\obj\Release\HMS.DataSource.pdb

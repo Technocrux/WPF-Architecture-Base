@@ -1,0 +1,4 @@
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\ModuleTracking\bin\Release\ModuleTracking.dll
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\ModuleTracking\bin\Release\ModuleTracking.pdb
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\ModuleTracking\obj\Release\ModuleTracking.dll
+C:\Users\ali.sufiyan\documents\visual studio 2013\Projects\HMS.Desktop\ModuleTracking\obj\Release\ModuleTracking.pdb
